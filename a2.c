@@ -1,5 +1,5 @@
 /*************************a2.c**************************************************************
-Student Name: Nicholas Macedo - Van Horne    Student Number:  0889469
+Student Name: Nicholas Macedo                Student Number:
 Date: October 17 2014                        Course Name: CIS 1500
 *******************************************************************************************/
 #include <stdio.h>
